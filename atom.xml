@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://malanhui.github.io</id>
+    <title>马岚辉的博客</title>
+    <updated>2022-10-04T23:41:20.692Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://malanhui.github.io"/>
+    <link rel="self" href="https://malanhui.github.io/atom.xml"/>
+    <subtitle>这是一个分享学习资源和生活趣事的网站</subtitle>
+    <logo>https://malanhui.github.io/images/avatar.png</logo>
+    <icon>https://malanhui.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, 马岚辉的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[图片修复]]></title>
+        <id>https://malanhui.github.io/post/tu-pian-xiu-fu/</id>
+        <link href="https://malanhui.github.io/post/tu-pian-xiu-fu/">
+        </link>
+        <updated>2022-10-04T14:17:50.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>我们在网上寻找图片时从网页上下载的图片大多不是高清。如果我们想要高清原图的话还要费力去寻找，<br>
+这时最简单的办法就是利用在线图片修复网站对图片进行高清修复，今天我要分享我常用的图片修复网<br>
+站。</p>
+<!-- more -->
+<pre><code>第一个：https://picwish.cn/photo-enhancer
+</code></pre>
+<p>这个网站可以快速的将模糊的图片转换成高清的图片</p>
+<pre><code>第二个：https://jpghd.com/zh
+</code></pre>
+<p>这个相比与上一个网站修复的效果会更加好，但是它需要较长的时间等待。而且如果你是用次数过多的话，<br>
+他会限制你的ip，不过我们只要换一个ip使用就可以了。但是修复时长是的的确确的硬伤。</p>
+<pre><code>第三个：https://deepai.org/machine-learning-model/colorizer
+</code></pre>
+<p>这个网站可以修复图片的色彩，适合与老照片的修复，但是效果感人。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[在线格式转换网站]]></title>
+        <id>https://malanhui.github.io/post/zai-xian-ge-shi-zhuan-huan-wang-zhan/</id>
+        <link href="https://malanhui.github.io/post/zai-xian-ge-shi-zhuan-huan-wang-zhan/">
+        </link>
+        <updated>2022-10-04T12:06:16.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>很多格式转换软件基本都是收费的，而且下载使用软件还会占用系统一些资源。如果你只是偶尔需要转换格式<br>
+的话，那么使用在线的网站就完全足够了。下面给大家分享一下我常用的在线格式转换网站。</p>
+<!-- more -->
+<pre><code>第一个：https://www.online-convert.com/
+</code></pre>
+<p>这个网站几乎支持所有音视频之间以及office文件之间的格式转换，但是它每天只能免费使用三次</p>
+<pre><code>第二个：https://www.aconvert.com/
+</code></pre>
+<p>该网站同样支持各种office文件以及音视频之间的格式转换，它的优点在于不限制使用次数</p>
+<pre><code>第三个：https://www.pdfpai.com/
+</code></pre>
+<p>该网站支持将pdf转化成其他office文件，且永远免费</p>
+<pre><code>第四个：http://convert.4get.kr/
+</code></pre>
+<p>这是一个在线的字幕格式转换网站，支持几乎所有格式的字幕文件</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[临时邮箱]]></title>
+        <id>https://malanhui.github.io/post/lin-shi-you-xiang/</id>
+        <link href="https://malanhui.github.io/post/lin-shi-you-xiang/">
+        </link>
+        <updated>2022-10-04T11:28:53.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<p>很多时候我们浏览各种APP及网站里面的内容，只有注册登录了才有权限看。这些一般都需要填写邮箱来<br>
+注册，但有时候不想用自己的邮箱来注册，怕有些网站总给你发垃圾广告或者自己私人邮箱可能会泄露不<br>
+安全，这个时候就需要一个临时邮箱，无需注册，也不会留下个人数据。</p>
+<p>临时邮箱即是临时电子邮件，也称为“ tempmail”，“ 10分钟邮件”，“可丢弃邮箱”，“一次性邮件”<br>
+”匿名邮箱”，保护您的个人电子邮件地址免受垃圾邮件。</p>
+<p><strong>以下收集了部分临时邮箱地址，小伙伴们自行使用</strong></p>
+<!-- more -->
+<pre><code>1、https://mail.tm/
+
+2、https://mail.td/
+
+3、https://temp-mail.org/  访问需人机身份验证
+
+4、https://mailsac.com/
+
+5、https://www.moakt.com/
+
+6、https://dropmail.me/
+
+7、https://linshiyouxiang.net/
+
+8、https://www.guerrillamail.com/ 有时不科学上网才可以打开
+
+9、http://www.tempinbox.com/
+
+10、https://www.crazymailing.com/
+
+11、https://www.fakemail.net/
+
+12、https://www.emailondeck.com/
+
+13、https://www.mohmal.com/zh
+
+14、https://www.disposablemail.com/
+
+15、https://gmailnator.com/
+
+16、https://tempmail.net/
+
+17、https://mailpoof.com/
+
+18、http://24mail.chacuo.net/
+
+19、https://10minutemail.net/
+
+20、https://yopmail.com/
+
+21、https://www.mailinator.com/
+
+22、https://maildrop.cc/
+
+23、https://tempmail.altmails.com/
+
+24、https://10minemail.com/  访问需人机身份验证
+
+25、https://www.clipmails.com/
+
+26、http://www.mailinator.com/
+
+27、http://www.mytrashmail.com/
+
+28、https://10minutemail.com/
+
+29、https://www.tempmailbox.net/
+
+30、https://www.nowmymail.com/
+</code></pre>
+]]></content>
+    </entry>
+</feed>
